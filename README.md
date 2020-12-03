@@ -1,4 +1,7 @@
-### Jaemin Im's simple profile ✔
+
+## Jaemin Im's simple profile ✔
+
+---
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=jaemin-im&count_private=true&show_icons=true&theme=onedark)
 
